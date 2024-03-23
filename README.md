@@ -39,6 +39,14 @@ Enjoy listening to music!
 
 To use the music player, simply open the `index.html` file in a web browser. The player interface will be displayed along with a default song loaded for playback. You can then interact with the player controls to play, pause, skip songs, and see the progress of the current song.
 
+## Demo
+
+You can view a live demo of the music player web application hosted on GitHub Pages. Simply visit the following link:
+
+[Music Player Demo](https://osama206.github.io/Music-Player/)
+
+In the demo, you can interact with the music player interface to play, pause, and navigate between songs. Experience the responsive design by accessing the demo on different devices such as desktops, laptops, tablets, and smartphones.
+
 ## File Structure
 
 - `index.html`: HTML file containing the structure of the music player interface.
