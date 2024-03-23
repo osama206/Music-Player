@@ -51,8 +51,8 @@ To use the music player, simply open the `index.html` file in a web browser. The
 
 ## Customization
 
-- **Adding Songs** You can customize the music player by adding your own songs to the `music` file and updating the `songs` array in the `script.js` file with the relevant song details (name, display name, artist).
-- **Styling** Customize the appearance of the music player by modifying the CSS styles in the `style.css` file. You can adjust colors, fonts, dimensions, and layout to match your preferences..
+- **Adding Songs**: You can customize the music player by adding your own songs to the `music` file and updating the `songs` array in the `script.js` file with the relevant song details (name, display name, artist).
+- **Styling**: Customize the appearance of the music player by modifying the CSS styles in the `style.css` file. You can adjust colors, fonts, dimensions, and layout to match your preferences..
 
 ## Credits
 
