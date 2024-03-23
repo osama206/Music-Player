@@ -33,8 +33,6 @@ To run this music player locally, follow these steps:
    - Use the previous and next buttons to navigate through the playlist.
    - Click on the progress bar to skip to a specific position within the track.
 
----
-
 Enjoy listening to music!
 
 ## Usage
@@ -53,7 +51,8 @@ To use the music player, simply open the `index.html` file in a web browser. The
 
 ## Customization
 
-You can customize the music player by adding your own songs to the `music/` directory and updating the `songs` array in the `script.js` file with the relevant song details (name, display name, artist). Additionally, you can modify the styles in the `style.css` file to change the appearance of the player interface according to your preferences.
+- **Adding Songs** You can customize the music player by adding your own songs to the `music` file and updating the `songs` array in the `script.js` file with the relevant song details (name, display name, artist).
+- **Styling** Customize the appearance of the music player by modifying the CSS styles in the `style.css` file. You can adjust colors, fonts, dimensions, and layout to match your preferences..
 
 ## Credits
 
