@@ -15,12 +15,12 @@ To run this music player locally, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/osama206/Music-Player.git
+   git clone https://github.com/osama206/music-player.git
    ```
 
 2. **Navigate to the Repository:**
    ```
-   cd Music-Player
+   cd music-player
    ```
 
 3. **Open in a Web Browser:**
@@ -43,7 +43,7 @@ To use the music player, simply open the `index.html` file in a web browser. The
 
 You can view a live demo of the music player web application hosted on GitHub Pages. Simply visit the following link:
 
-[Music Player Demo](https://osama206.github.io/Music-Player/)
+[Music Player Demo](https://osama206.github.io/music-player/)
 
 In the demo, you can interact with the music player interface to play, pause, and navigate between songs. Experience the responsive design by accessing the demo on different devices such as desktops, laptops, tablets, and smartphones.
 
